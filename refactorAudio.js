@@ -8,7 +8,7 @@ const prompt = require(`prompt`);
     console.log('Command-line input received:');
     console.log(user)
     console.log(email)
-    
+    //hace falta mucho mas que esto usar ogg o fmmepg
    
   });
 })();
